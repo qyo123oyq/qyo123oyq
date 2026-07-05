@@ -37,29 +37,6 @@
 
 ---
 
-## 🚀 My Projects
-
-### 📺 Bilibili Ecosystem
-- [**BiliPai**](https://github.com/qyo123oyq/BiliPai) — 原生、纯净、可扩展，重新定义你的 B 站体验
-- [**bv**](https://github.com/qyo123oyq/bv) — 哔哩哔哩第三方 Android 应用
-- [**bilimiao2**](https://github.com/qyo123oyq/bilimiao2) — bilimiao 2.x
-- [**bilibili-API-collect**](https://github.com/qyo123oyq/bilibili-API-collect) — 哔哩哔哩 API 收集整理
-
-### 📖 Reading & Novels
-- [**legado-with-MD3**](https://github.com/qyo123oyq/legado-with-MD3) — 使用 Material Design 3 全新设计的阅读 3.0
-- [**legado**](https://github.com/qyo123oyq/legado) — 阅读 Sigma，为书源带来更多可能性
-- [**Legado-Tauri**](https://github.com/qyo123oyq/Legado-Tauri) — 阅读 Tauri 跨平台版本
-- [**hikari_novel_flutter**](https://github.com/qyo123oyq/hikari_novel_flutter) — Flutter 构建的第三方轻小说文库客户端
-
-### 🤖 AI / MCP
-- [**MiMo-Code**](https://github.com/qyo123oyq/MiMo-Code) — Where Models and Agents Co-Evolve
-- [**mcp-github**](https://github.com/qyo123oyq/mcp-github) — GitHub MCP Server
-- [**mcp-server-fanqie**](https://github.com/qyo123oyq/mcp-server-fanqie) — 番茄小说 MCP 服务器
-
-### 🛠️ Developer Tools
-- [**tiez-clipboard**](https://github.com/qyo123oyq/tiez-clipboard) — 基于 Tauri 的跨平台剪贴板管理器
-- [**CipherTalk**](https://github.com/qyo123oyq/CipherTalk) — 本地导出微信数据，协助您完成爱的备份
-- [**TVAPP**](https://github.com/qyo123oyq/TVAPP) — Android TV 盒子应用资源合集
 
 ### 📝 Blog
 - [**qyo123oyq.github.io**](https://github.com/qyo123oyq/qyo123oyq.github.io) — AI 辅助开源贡献博客
